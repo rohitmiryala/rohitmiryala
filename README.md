@@ -1,7 +1,1 @@
-👋 Hi, I’m @rohitmiryala
-Am a highly skilled recent graduate with a Bachelor of Science in Information Technology. Strong
-in design and integration with good problem-solving skills.
-
-Skills :
-Core Java Html Advanced Java Css Object-Oriented programing C++ Javascript Mysql Jquery Sql Spring Hiberne
-
+Its a java code to get the number of frequency or occurance of a character in a String with String Methods.
